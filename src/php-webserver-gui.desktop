@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PHP Webserver GUI
+Terminal=false
+Type=Application
+Keywords=php;server;webserver;gui;
+Icon=php-webserver-gui
+Exec=php-webserver-gui
+Encoding=UTF-8

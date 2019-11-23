@@ -1,0 +1,11 @@
+Package: php-webserver-gui
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: Jacob Barkdull <jacob@barkdull.org>
+Section: base
+Priority: optional
+Depends: libgtk-3-0 (>= 3.10), libglib2.0-0 (>= 2.0), libvte-2.91-0 (>= 0.48)
+Homepage: https://www.barkdull.org/software/php-webserver-gui
+Description: PHP Web Server GUI
+ A GTK+ interface for PHP's built-in web server. It lets you choose the
+ executable, IP address, port number, root directory, and INI file graphically.

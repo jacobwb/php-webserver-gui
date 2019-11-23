@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+	<gresource prefix="/org/gnome/php-webserver-gui">
+		<file compressed="true">Makefile</file>
+		<file compressed="true">src/gui.glade</file>
+		<file compressed="true">src/gui.gresource.xml</file>
+		<file compressed="true">src/icon.svg</file>
+		<file compressed="true">src/php-webserver-gui.c</file>
+		<file compressed="true">src/php-webserver-gui.desktop</file>
+		<file compressed="true">src/php-webserver-gui.h</file>
+		<file compressed="true">src/theme.css</file>
+	</gresource>
+</gresources>
